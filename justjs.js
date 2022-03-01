@@ -1,1 +1,1 @@
-function justjs() {alert(1)}
+var myFunc = function() {alert(1)}();
