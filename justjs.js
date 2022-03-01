@@ -1,1 +1,1 @@
-<script>function justjs() {alert(1)}</script>
+function justjs() {alert(1)}
